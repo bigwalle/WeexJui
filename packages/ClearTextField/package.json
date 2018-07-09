@@ -1,0 +1,18 @@
+{
+  "name": "cleartextfield",
+  "version": "1.0.0",
+  "description": "清空删除按钮输入框",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weex",
+    "vue",
+    "clear",
+    "text",
+    "field"
+  ],
+  "author": "welcome112s",
+  "license": "ISC"
+}

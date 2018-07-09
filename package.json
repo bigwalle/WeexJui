@@ -1,0 +1,22 @@
+{
+  "name": "weex-jui",
+  "version": "1.0.0",
+  "description": "weexjui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weex",
+    "vue"
+  ],
+  "author": "welcome112s",
+  "license": "ISC",
+  "dependencies": {
+    "user": "0.0.0"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {}
+}
